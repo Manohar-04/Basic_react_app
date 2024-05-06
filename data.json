@@ -1,0 +1,219 @@
+{
+    "AN": {
+      "totalCases": 15000,
+      "totalTests": 200000,
+      "totalDeaths": 100,
+      "totalVaccinated": 100000
+    },
+    "AP": {
+      "totalCases": 1200000,
+      "totalTests": 15000000,
+      "totalDeaths": 10000,
+      "totalVaccinated": 8000000
+    },
+    "AR": {
+      "totalCases": 60000,
+      "totalTests": 800000,
+      "totalDeaths": 500,
+      "totalVaccinated": 300000
+    },
+    "AS": {
+      "totalCases": 300000,
+      "totalTests": 3500000,
+      "totalDeaths": 2000,
+      "totalVaccinated": 2000000
+    },
+    "BR": {
+      "totalCases": 800000,
+      "totalTests": 10000000,
+      "totalDeaths": 5000,
+      "totalVaccinated": 6000000
+    },
+    "CH": {
+      "totalCases": 50000,
+      "totalTests": 600000,
+      "totalDeaths": 300,
+      "totalVaccinated": 300000
+    },
+    "CT": {
+      "totalCases": 400000,
+      "totalTests": 5000000,
+      "totalDeaths": 3000,
+      "totalVaccinated": 2500000
+    },
+    "DN": {
+      "totalCases": 10000,
+      "totalTests": 150000,
+      "totalDeaths": 50,
+      "totalVaccinated": 50000
+    },
+    "DD": {
+      "totalCases": 8000,
+      "totalTests": 100000,
+      "totalDeaths": 30,
+      "totalVaccinated": 40000
+    },
+    "DL": {
+      "totalCases": 1500000,
+      "totalTests": 20000000,
+      "totalDeaths": 12000,
+      "totalVaccinated": 10000000
+    },
+    "GA": {
+      "totalCases": 80000,
+      "totalTests": 1000000,
+      "totalDeaths": 500,
+      "totalVaccinated": 600000
+    },
+    "GJ": {
+      "totalCases": 600000,
+      "totalTests": 8000000,
+      "totalDeaths": 4000,
+      "totalVaccinated": 3000000
+    },
+    "HR": {
+      "totalCases": 400000,
+      "totalTests": 5000000,
+      "totalDeaths": 3000,
+      "totalVaccinated": 2500000
+    },
+    "HP": {
+      "totalCases": 200000,
+      "totalTests": 2500000,
+      "totalDeaths": 1500,
+      "totalVaccinated": 1200000
+    },
+    "JK": {
+      "totalCases": 150000,
+      "totalTests": 2000000,
+      "totalDeaths": 1000,
+      "totalVaccinated": 800000
+    },
+    "JH": {
+      "totalCases": 500000,
+      "totalTests": 7000000,
+      "totalDeaths": 4000,
+      "totalVaccinated": 3000000
+    },
+    "KA": {
+      "totalCases": 3000000,
+      "totalTests": 35000000,
+      "totalDeaths": 20000,
+      "totalVaccinated": 18000000
+    },
+    "KL": {
+      "totalCases": 2000000,
+      "totalTests": 25000000,
+      "totalDeaths": 15000,
+      "totalVaccinated": 12000000
+    },
+    "LD": {
+      "totalCases": 500,
+      "totalTests": 8000,
+      "totalDeaths": 5,
+      "totalVaccinated": 2000
+    },
+    "MP": {
+      "totalCases": 900000,
+      "totalTests": 12000000,
+      "totalDeaths": 8000,
+      "totalVaccinated": 6000000
+    },
+    "MH": {
+      "totalCases": 7000000,
+      "totalTests": 90000000,
+      "totalDeaths": 50000,
+      "totalVaccinated": 40000000
+    },
+    "MN": {
+      "totalCases": 70000,
+      "totalTests": 1000000,
+      "totalDeaths": 400,
+      "totalVaccinated": 300000
+    },
+    "ML": {
+      "totalCases": 50000,
+      "totalTests": 600000,
+      "totalDeaths": 300,
+      "totalVaccinated": 250000
+    },
+    "MZ": {
+      "totalCases": 30000,
+      "totalTests": 400000,
+      "totalDeaths": 200,
+      "totalVaccinated": 200000
+    },
+    "NL": {
+      "totalCases": 40000,
+      "totalTests": 500000,
+      "totalDeaths": 300,
+      "totalVaccinated": 250000
+    },
+    "OR": {
+      "totalCases": 800000,
+      "totalTests": 10000000,
+      "totalDeaths": 5000,
+      "totalVaccinated": 6000000
+    },
+    "PY": {
+      "totalCases": 20000,
+      "totalTests": 300000,
+      "totalDeaths": 100,
+      "totalVaccinated": 150000
+    },
+    "PB": {
+      "totalCases": 500000,
+      "totalTests": 6000000,
+      "totalDeaths": 4000,
+      "totalVaccinated": 3000000
+    },
+    "RJ": {
+      "totalCases": 3000000,
+      "totalTests": 40000000,
+      "totalDeaths": 20000,
+      "totalVaccinated": 18000000
+    },
+    "SK": {
+      "totalCases": 250000,
+      "totalTests": 3000000,
+      "totalDeaths": 1500,
+      "totalVaccinated": 1200000
+    },
+    "TN": {
+      "totalCases": 4000000,
+      "totalTests": 50000000,
+      "totalDeaths": 30000,
+      "totalVaccinated": 25000000
+    },
+    "TS": {
+      "totalCases": 350000,
+      "totalTests": 4000000,
+      "totalDeaths": 2500,
+      "totalVaccinated": 2000000
+    },
+    "TR": {
+      "totalCases": 150000,
+      "totalTests": 2000000,
+      "totalDeaths": 1000,
+      "totalVaccinated": 800000
+    },
+    "UP": {
+      "totalCases": 1000000,
+      "totalTests": 12000000,
+      "totalDeaths": 8000,
+      "totalVaccinated": 6000000
+    },
+    "UK": {
+      "totalCases": 500000,
+      "totalTests": 6000000,
+      "totalDeaths": 4000,
+      "totalVaccinated": 3000000
+    },
+    "WB": {
+      "totalCases": 3000000,
+      "totalTests": 35000000,
+      "totalDeaths": 20000,
+      "totalVaccinated": 18000000
+    }
+  }
+  
